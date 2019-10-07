@@ -2,8 +2,8 @@
 #include "main.h"
 #include "input.h"
 #include "Animation.h"
-
-
+huhuhuh
+vttgy
 //Gem
 int GemAniCnt = 0;
 int GemAniNum = 0;
